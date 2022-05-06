@@ -126,11 +126,13 @@ h1 {
 	z-index: 2;
 }
 
-.card-image {
-	height: 180px;
+img {
+	max-width: 180px;
+	max-height: 180px;
 	position: relative;
 	z-index: 2;
 }
+
 
 @keyframes bounce {
 	20% {
