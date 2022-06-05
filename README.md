@@ -1,4 +1,5 @@
-# pokedex-master
+# Pokedex
+<img src="src/assets/images/app.gif" />
 # Tecnologias 🚀 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 - HTML, CSS (boilerplate disponibilizado pelo grande Professor Roger Melo).
